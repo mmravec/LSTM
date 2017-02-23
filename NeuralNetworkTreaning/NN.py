@@ -10,6 +10,3 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 
 numpy.random.seed(7)
-
-dataframe = pandas.read_csv(os.path.dirname(__file__))
-print(dataframe)
