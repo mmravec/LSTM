@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+DataProcessing/
+flask_website/__init__.py
+flask_website/__pycache__/
+uploadedData/
